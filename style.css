@@ -1,0 +1,14 @@
+
+body {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif; 
+}
+
+body > header {
+    background-color: dodgerblue;
+    color: white;
+}
+
+footer {
+    background-color: dodgerblue;
+}
